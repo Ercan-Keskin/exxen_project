@@ -4,7 +4,7 @@
 <p>You can reach the bell of the relevant project by<a href="https://ercan-keskin.github.io/exxen_project/"> clicking here. </a> </p>
 
 
- # Anasayfa
+ # Home Page
  ![Model](https://github.com/Ercan-Keskin/exxen_project/blob/main/img/index.png) 
 
 
